@@ -1,2 +1,1 @@
-Current Project: Learning Git commands and practices (sp?)
-[I'm not great at spelling I'm sorry]
+Current Project: Learning Git commands and practices while reviewing basic HTML.
